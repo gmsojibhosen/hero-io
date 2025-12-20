@@ -1,2 +1,29 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+a.active {
+  background: linear-gradient(to right, #632EE3, #9F62F2);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  position: relative;
+  text-decoration: none;
+}
+
+/* Gradient bottom border effect using pseudo-element */
+a.active::after {
+  content: "";
+  display: block;
+  height: 2px; /* border thickness */
+  width: 70%;  /* underline width */
+  background: linear-gradient(to right, #632EE3, #9F62F2);
+  position: absolute;
+  bottom: 10%;
+  left: 50%;          /* start from center */
+  transform: translateX(-50%); /* shift left by 50% of width to center */
+}
+
+
+
+
+
