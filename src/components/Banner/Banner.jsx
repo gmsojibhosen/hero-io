@@ -2,6 +2,7 @@ import React from 'react';
 import playStore from '../../assets/play-store.png';
 import appStore from '../../assets/app-store.png';
 import hero from '../../assets/hero.png'
+import { Link } from 'react-router';
 const Banner = () => {
     return (
        <div>
@@ -11,14 +12,16 @@ const Banner = () => {
             </div>
 
             <div className='flex items-center justify-center gap-4'>
-                <div className='px-6 py-3 border border-[#D2D2D2] rounded-md flex items-center gap-2.5'>
+                <Link to={'https://play.google.com/store/apps'}><div className='courser-pointer px-6 py-3 border border-[#D2D2D2] rounded-md flex items-center gap-2.5'>
                     <img src={playStore} alt="" />
                     <span className='font-semibold text-xl text-[#001931]'>Google Play</span>
-                </div>
-                <div className='px-6 py-3 border border-[#D2D2D2] rounded-md flex items-center gap-2.5'>
+                </div></Link>
+                <Link to={'https://www.apple.com/app-store/'}>
+                <div className='courser-pointer px-6 py-3 border border-[#D2D2D2] rounded-md flex items-center gap-2.5'>
                     <img src={appStore} alt="" />
                     <span className='font-semibold text-xl text-[#001931]'>App Store</span>
                 </div>
+                </Link>
             </div>
         </div>
 

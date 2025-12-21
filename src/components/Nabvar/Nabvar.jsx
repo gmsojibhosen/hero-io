@@ -19,7 +19,7 @@ const Nabvar = () => {
         <li><NavLink to={'/installation'}>Installation</NavLink></li>
       </ul>
     </div>
-    <a className="font-bold mr-1 bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src={navLogo} className='w-10 h-10 inline-block' alt="home-logo" />HERO.IO</a>
+    <NavLink to={'/'} className="font-bold mr-1 bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src={navLogo} className='w-10 h-10 inline-block' alt="home-logo" />HERO.IO</NavLink>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
