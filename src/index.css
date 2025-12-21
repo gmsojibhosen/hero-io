@@ -11,7 +11,7 @@ a.active {
 }
 
 /* Gradient bottom border effect using pseudo-element */
-a.active::after {
+li a.active::after {
   content: "";
   display: block;
   height: 2px; /* border thickness */

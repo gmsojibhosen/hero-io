@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.icons8.com/color/512/whatsapp.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "WhatsApp is a secure, fast, and reliable messaging application that allows users to send text messages, images, videos, voice notes, and documents to individuals and groups across the globe. With end-to-end encryption, WhatsApp ensures that conversations remain private and secure. The app supports voice and video calls, status updates, group chats, and media sharing. Integration with phone contacts, notifications, and cross-platform access makes communication seamless. Regular updates improve usability, performance, and security. WhatsApp is widely used for personal and professional communication, making it one of the most popular messaging apps worldwide, trusted by millions for instant global connectivity.",
+    "size": 72,
+    "reviews": 200000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 14000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 26000000 },
+      { "name": "4 star", "count": 62000000 },
+      { "name": "5 star", "count": 97000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://img.icons8.com/color/512/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Facebook is a leading social media platform that connects people, communities, and organizations around the world. Users can share photos, videos, updates, and events with friends and family. The platform offers personalized news feeds, messaging, notifications, groups, pages, and marketplace for buying and selling products. Privacy settings, security options, and content controls ensure safe interactions. Businesses and creators can leverage tools for marketing, analytics, and audience engagement. Regular updates enhance performance, interface, and security. Facebook continues to serve as a central hub for social interaction, communication, entertainment, and networking across millions of devices globally, making it an essential digital platform.",
+    "size": 85,
+    "reviews": 150000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 25000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://img.icons8.com/color/512/instagram-new.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instagram is a popular photo and video sharing social media platform that enables users to express creativity, share moments, and connect with followers worldwide. Features include stories, reels, direct messaging, live streams, IGTV, and shopping tools. The platform allows users to follow interests, interact through likes and comments, and explore content based on trends. Instagram supports account customization, privacy controls, and analytics for creators. Regular updates improve security, user experience, and performance. The platform fosters personal expression, community engagement, and business marketing, making Instagram a versatile tool for entertainment, social networking, and professional branding for millions globally every day.",
+    "size": 90,
+    "reviews": 180000000,
+    "ratingAvg": 4.3,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 12000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 18000000 },
+      { "name": "4 star", "count": 52000000 },
+      { "name": "5 star", "count": 89000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://img.icons8.com/color/512/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is the leading video-sharing platform that allows users to watch, upload, and engage with videos on various topics. The platform supports channels, playlists, subscriptions, comments, likes, and live streaming. Users can discover educational content, entertainment, music, news, and tutorials. YouTube offers features such as video editing, analytics for creators, recommendations, offline access, and personalized content. The platform continues to expand with updates that improve security, performance, and user experience. YouTube connects billions of users worldwide, enabling content creators, viewers, and businesses to interact and grow while providing an extensive, accessible, and engaging global entertainment hub.",
+    "size": 95,
+    "reviews": 170000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 21000000 },
+      { "name": "4 star", "count": 55000000 },
+      { "name": "5 star", "count": 69000000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://img.icons8.com/color/512/chrome.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "description": "Google Chrome is a widely used web browser that provides a fast, secure, and efficient internet experience. It supports multiple tabs, bookmarks, password management, extensions, and synchronization with Google accounts. Features like incognito mode, autofill, and smart search suggestions enhance productivity and safety. Chrome is compatible with desktop and mobile devices, providing seamless browsing. Developers benefit from built-in tools, while users enjoy offline mode, fast page loading, and regular updates that improve speed, security, and usability. Its clean interface and advanced performance make Chrome one of the most trusted and widely adopted browsers worldwide for personal and professional use.",
+    "size": 110,
+    "reviews": 120000000,
+    "ratingAvg": 4.1,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 54000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://img.icons8.com/color/512/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Spotify is a music streaming platform that provides access to millions of songs, podcasts, and playlists from all over the world. Users can discover music based on their preferences, follow artists, create playlists, and listen offline. Features include personalized recommendations, collaborative playlists, high-quality audio, and social sharing. Spotify supports multiple devices, integration with voice assistants, and seamless playback across platforms. Regular updates improve usability, discoverability, and security. The platform is widely used for entertainment, learning, and fitness. Spotify empowers both listeners and creators to share, explore, and enjoy audio content in an engaging and interactive environment worldwide.",
+    "size": 75,
+    "reviews": 95000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://img.icons8.com/color/512/telegram-app.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a messaging application designed for speed, security, and versatility. It allows users to send messages, media, and documents, create group chats and channels, and make voice and video calls. End-to-end encryption ensures privacy, while features like bots, stickers, and file sharing enhance functionality. Telegram supports multiple devices, synchronization, and cloud storage for chat history. Its clean interface, fast performance, and robust security make it popular worldwide. Regular updates provide new features, bug fixes, and improved security, making Telegram a trusted messaging solution for personal, professional, and community communication across mobile, desktop, and web platforms globally.",
+    "size": 60,
+    "reviews": 70000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 41500000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://img.icons8.com/color/512/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "TikTok is a social media platform for creating, sharing, and discovering short-form videos. Users can record and edit videos with music, effects, filters, and text. The platform uses personalized feeds to show trending content, entertaining clips, and creative challenges. TikTok allows users to interact through likes, comments, shares, and duets. It also supports live streaming, content monetization, and analytics for creators. Regular updates enhance performance, security, and features. The app encourages creativity, engagement, and social connection, making it widely popular among youth and professionals worldwide. TikTok provides a dynamic environment for entertainment, learning, and global digital interaction.",
+    "size": 105,
+    "reviews": 160000000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 14000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 72000000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://img.icons8.com/color/512/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Google Drive is a cloud storage platform that allows users to store, access, and share files securely from any device. It supports documents, spreadsheets, presentations, photos, and videos with collaborative features for teams. Integration with Google Workspace enables editing, sharing, and real-time collaboration. Google Drive ensures data safety with encryption, backup, and permission settings. Users can organize files into folders, use search and filters, and access offline documents. Regular updates improve interface, speed, and security. Drive provides a reliable solution for personal, educational, and professional file management, making it a trusted service for millions of users globally across devices.",
+    "size": 80,
+    "reviews": 60000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://img.icons8.com/color/512/gmail-new.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "description": "Gmail is a secure, reliable, and user-friendly email service developed by Google that provides users with a comprehensive platform for managing their electronic communication. It offers advanced spam protection, smart inbox organization, fast search, and seamless integration with Google services such as Drive, Calendar, and Meet. With features like priority inbox, conversation view, powerful search, and offline access, Gmail allows users to efficiently manage personal and professional correspondence. The service also supports multiple accounts, attachments, customizable themes, labels, filters, and robust security measures including two-factor authentication, ensuring privacy and protection for all users while enhancing productivity and organization.",
+    "size": 65,
+    "reviews": 90000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 28000000 },
+      { "name": "5 star", "count": 38000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://img.icons8.com/color/512/google-maps-new.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Google Maps is a comprehensive navigation platform that provides accurate GPS directions, real-time traffic updates, and route planning for driving, walking, biking, and public transport. Users can explore places, discover businesses, read reviews, view photos, and find local points of interest. Features include offline maps, voice-guided navigation, real-time location sharing, and integration with other Google services. Regular updates enhance map accuracy, usability, and performance, helping millions of users worldwide navigate safely and efficiently. Google Maps is widely used for personal travel, business logistics, and tourism, providing reliable, user-friendly, and up-to-date geographic information across devices and locations.",
+    "size": 120,
+    "reviews": 100000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 65000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a cloud-based video conferencing application that enables users to host and attend online meetings, webinars, and virtual events from anywhere. It supports HD video and audio, screen sharing, breakout rooms, chat, and recording features for personal, business, and educational use. Zoom provides integration with calendars, email platforms, and productivity tools to streamline workflow. With robust security options, password protection, and encryption, Zoom ensures safe communication. Regular updates enhance usability, reliability, and performance. Widely adopted for remote work, online learning, and virtual collaboration, Zoom remains a trusted platform connecting millions of participants globally through seamless, high-quality communication.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://img.icons8.com/color/512/twitter.png",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "description": "Twitter is a microblogging and social networking platform where users post and interact with messages known as tweets. Users can share news, opinions, multimedia content, and participate in trending conversations globally. The platform provides tools for liking, retweeting, commenting, and following accounts. Twitter also supports lists, direct messaging, analytics, and advertising solutions for personal and business use. Regular updates improve usability, security, and performance, while offering features like verification, hashtag trends, and notifications. Widely adopted for real-time communication, networking, and marketing, Twitter enables individuals, organizations, and communities to share and discover content instantly, connecting millions of users worldwide.",
+    "size": 80,
+    "reviews": 80000000,
+    "ratingAvg": 4.0,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 38000000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://img.icons8.com/color/512/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corp.",
+    "description": "LinkedIn is a professional networking platform that allows users to create profiles, connect with colleagues, share content, and explore job opportunities. It provides tools for recruiters, businesses, and professionals to showcase skills, experience, and company information. Users can participate in groups, post updates, apply for jobs, and follow industry trends. LinkedIn also offers learning resources, analytics, and advertising solutions to enhance professional development and brand visibility. Regular updates improve performance, interface, and security. LinkedIn serves as a trusted global platform for career growth, professional communication, knowledge sharing, and networking among millions of users in various industries.",
+    "size": 85,
+    "reviews": 50000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 27000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://img.icons8.com/color/512/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Snapchat is a multimedia messaging application that allows users to send photos, videos, and messages that disappear after being viewed. It offers stories, filters, augmented reality lenses, and chat features to enhance user interaction. Snapchat supports private messages, group chats, and Snap Map for location sharing with friends. The platform also provides Discover content, mini-apps, and original shows for entertainment. Security settings, notifications, and privacy controls ensure user protection. Regular updates improve performance, interface, and interactive tools. Snapchat remains a popular social platform for creative communication, entertainment, and sharing moments among millions of users worldwide.",
+    "size": 80,
+    "reviews": 60000000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://img.icons8.com/color/512/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is a visual discovery and bookmarking platform that allows users to find, save, and share creative ideas such as recipes, home decor, fashion, and more. Users can create boards, pin images, follow interests, and explore content personalized to their tastes. Pinterest supports collaboration, group boards, and shopping features for inspiration and purchasing. The platform uses algorithms to recommend content and provides tools for analytics and engagement for creators and businesses. Regular updates enhance performance, usability, and security. Pinterest serves as a global hub for inspiration, creativity, and idea sharing for millions of users seeking both personal and professional solutions.",
+    "size": 75,
+    "reviews": 40000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a subscription-based streaming service that provides a wide range of movies, TV shows, documentaries, and original content for entertainment worldwide. Users can browse content by genre, search for specific titles, create watchlists, and enjoy personalized recommendations. Netflix supports offline downloads, multiple profiles, parental controls, and HD/UHD playback on multiple devices. Regular updates enhance interface, streaming quality, and security. The platform empowers creators, offers interactive content, and delivers global entertainment experiences. Millions of users rely on Netflix for convenient, high-quality streaming, binge-watching, and discovering diverse and engaging video content across personal and family viewing sessions.",
+    "size": 100,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://img.icons8.com/ios-filled/512/000000/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Uber is a ride-hailing platform that connects riders with drivers through a mobile app, providing safe, convenient, and reliable transportation in cities worldwide. Users can request rides, track driver locations, view fare estimates, and pay securely through the app. Uber also offers food delivery, freight services, and micro-mobility options. The platform includes ratings, support, and safety features to ensure a trustworthy experience. Regular updates improve navigation, security, and app performance. Uber has transformed urban transportation by offering a flexible, accessible, and user-friendly solution for personal, business, and delivery needs globally.",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 16000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a global e-commerce and cloud computing platform that allows users to shop for millions of products, access fast shipping, and enjoy secure payments. The platform provides personalized recommendations, reviews, wishlists, and deals. Amazon also offers services like Prime Video, Audible, AWS, and Kindle for entertainment, learning, and business solutions. Users can track orders, manage subscriptions, and communicate with sellers. Regular updates improve interface, speed, and security. Amazon is a trusted platform worldwide, providing convenience, variety, and reliability for personal shopping, professional services, and digital content consumption across devices.",
+    "size": 120,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://img.icons8.com/color/512/dropbox.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "description": "Dropbox is a cloud storage and file-sharing platform that allows users to securely store, access, and share files from any device. Users can organize folders, collaborate with teams, and sync documents in real-time. Features include offline access, link sharing, version history, and integration with productivity tools. Security measures, encryption, and access controls ensure data protection. Regular updates enhance performance, usability, and collaboration features. Dropbox provides solutions for personal, educational, and professional use, supporting workflow efficiency and teamwork, and has become a trusted platform for millions of users globally seeking reliable, secure, and accessible cloud storage services.",
+    "size": 85,
+    "reviews": 70000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 33000000 }
+    ]
+  },
+   {
+    "id": 21,
+    "image": "https://img.icons8.com/ios-filled/512/000000/venmo.png",
+    "title": "Venmo",
+    "companyName": "PayPal, Inc.",
+    "description": "Venmo is a mobile payment service that allows users to send and receive money securely and quickly. It is designed for peer-to-peer transactions, making it easy to split bills, pay friends, or receive payments. Users can link bank accounts, debit cards, or credit cards, and transactions are tracked with notifications and digital receipts. Venmo also allows social interactions, enabling users to comment on or like transactions, making payments more engaging. Regular updates enhance security, usability, and performance. With widespread adoption and trusted encryption, Venmo has become a convenient and reliable financial tool for millions of users globally, supporting personal and casual financial transactions.",
+    "size": 60,
+    "reviews": 5000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://img.icons8.com/color/512/ebay.png",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "description": "eBay is an online marketplace that enables users to buy and sell products globally. Users can list items for auction or fixed-price sales, browse categories, compare prices, and access buyer protections. eBay provides features like bidding, watch lists, seller ratings, and secure payment methods, ensuring safe and transparent transactions. The platform also supports seller tools for analytics, shipping, and promotions. Mobile and desktop access allows users to manage transactions conveniently. Regular updates enhance usability, security, and app performance. eBay has become a trusted platform for commerce, enabling individuals and businesses to trade a wide range of products efficiently and safely worldwide.",
+    "size": 85,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4800000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://img.icons8.com/color/512/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Spotify is a global music streaming service that provides millions of tracks, podcasts, and playlists to users across the world. Users can discover music by genre, mood, or personal taste, create playlists, follow artists, and enjoy offline playback. The platform supports personalized recommendations, collaborative playlists, and social sharing. Spotify integrates with various devices and voice assistants, offering seamless listening experiences. Premium subscriptions unlock ad-free listening and high-quality audio. Regular updates enhance user experience, performance, and security. Spotify empowers music lovers, creators, and podcasters alike, delivering a versatile, reliable, and engaging platform for entertainment and audio discovery worldwide.",
+    "size": 75,
+    "reviews": 95000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a subscription-based streaming service providing a vast library of movies, series, documentaries, and original content for users worldwide. It offers personalized recommendations, multiple profiles, and high-definition streaming. Offline download capabilities, parental controls, and watchlists enhance convenience. The platform supports multiple devices including smartphones, smart TVs, and desktops. Netflix regularly updates content, improves interface usability, and ensures secure streaming. With interactive storytelling and diverse global content, Netflix engages millions of users daily, offering a flexible and reliable platform for entertainment, learning, and media consumption across personal and family viewing experiences worldwide.",
+    "size": 100,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a leading e-commerce and cloud computing platform, providing millions of products, fast shipping, secure payments, and global delivery options. Users can shop for electronics, clothing, groceries, and more, read reviews, and use personalized recommendations. Amazon also offers services like Prime Video, Kindle, and Audible for entertainment and education. Sellers can manage listings, promotions, and analytics to reach customers worldwide. The platform prioritizes security, usability, and convenience, with regular updates enhancing performance. Amazon has become a trusted solution for personal shopping, professional business, and digital content access, serving millions of users globally for diverse needs efficiently and reliably.",
+    "size": 120,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://img.icons8.com/color/512/twitch.png",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive, Inc.",
+    "description": "Twitch is a live streaming platform primarily focused on video game content, but also supports music, talk shows, creative content, and real-time interaction. Users can follow channels, chat live, subscribe to creators, and participate in community events. Twitch provides tools for broadcasters, analytics, and monetization, enabling interactive experiences for both viewers and streamers. The platform supports multiple devices and high-definition streaming. Regular updates improve performance, interface, and security. Twitch connects millions of users globally, fostering communities, entertainment, and learning, while empowering creators to share content, engage audiences, and build loyal followings in a dynamic digital ecosystem.",
+    "size": 95,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://img.icons8.com/color/512/soundcloud.png",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud Ltd.",
+    "description": "SoundCloud is an online audio platform that enables artists, podcasters, and creators to upload, share, and distribute music and audio content globally. Users can discover tracks, create playlists, like, repost, and follow creators. The platform provides personalized recommendations, charts, and trending tracks for entertainment and discovery. SoundCloud supports offline listening, analytics for creators, and community engagement. Regular updates enhance security, performance, and user experience. SoundCloud has become a trusted platform for independent artists, DJs, and listeners, offering an interactive, versatile, and accessible environment for music creation, sharing, and global audio discovery.",
+    "size": 70,
+    "reviews": 40000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://img.icons8.com/color/512/skype.png",
+    "title": "Skype",
+    "companyName": "Microsoft Corp.",
+    "description": "Skype is a communications platform that enables users to make voice and video calls, send messages, and share files across devices globally. It supports group calls, screen sharing, and chat features suitable for personal and professional use. Skype integrates with Microsoft services, calendars, and contacts for seamless communication. Security features like encryption, login verification, and privacy controls ensure safe interaction. Regular updates improve performance, interface, and call quality. Skype continues to be a widely trusted solution for virtual meetings, collaboration, and social communication, connecting millions of users worldwide across desktops, mobile devices, and web platforms.",
+    "size": 90,
+    "reviews": 45000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://img.icons8.com/ios-filled/512/000000/adobe-acrobat.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "description": "Adobe Acrobat Reader is a versatile application that allows users to view, edit, annotate, and sign PDF documents securely. It supports file organization, form filling, text highlighting, and sharing across devices. Integration with Adobe Document Cloud enables synchronization, collaboration, and secure storage. Users can convert files, merge documents, and access advanced features with subscription plans. Regular updates enhance performance, usability, and security. Acrobat Reader is trusted by millions globally for personal, educational, and professional document management, providing a reliable, efficient, and accessible solution for interacting with digital documents across mobile and desktop platforms.",
+    "size": 80,
+    "reviews": 35000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://img.icons8.com/ios-filled/512/000000/evernote.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corp.",
+    "description": "Evernote is a productivity and note-taking app that enables users to capture ideas, organize notes, and manage tasks efficiently. It supports text, images, audio, and file attachments, along with notebooks, tags, and reminders for organization. Evernote offers synchronization across devices, offline access, search capabilities, and collaboration tools. Regular updates improve usability, interface, and security. The platform serves personal, educational, and professional purposes, helping millions globally manage information effectively, enhance productivity, and streamline workflow with a reliable and versatile note-taking and organizational solution accessible anywhere.",
+    "size": 65,
+    "reviews": 25000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "https://img.icons8.com/color/512/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb is an online marketplace that connects travelers with hosts offering unique accommodations and experiences worldwide. Users can browse listings for homes, apartments, or boutique stays, read reviews, and book securely through the platform. Airbnb provides features like instant booking, messaging, trip planning, and curated experiences to enhance travel. Hosts can manage listings, set pricing, and communicate with guests efficiently. The platform ensures safety, transparency, and trust through verified profiles, secure payments, and support services. Airbnb has transformed the travel industry, offering personalized, authentic, and convenient lodging and activities for millions of users globally.",
+    "size": 85,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "https://img.icons8.com/color/512/ebay.png",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "description": "eBay is a global e-commerce marketplace where users can buy, sell, and auction products across multiple categories. It provides personalized recommendations, secure payment methods, and detailed seller ratings to enhance user experience. The platform supports desktop and mobile devices, enabling users to browse, list, and track items efficiently. Features include bidding, watchlists, promotional tools, and analytics for sellers. eBay prioritizes security, transparency, and convenience, ensuring safe transactions and user satisfaction. Regular updates improve usability, interface, and performance. Millions rely on eBay daily for shopping, selling, and discovering unique products worldwide.",
+    "size": 90,
+    "reviews": 40000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "https://img.icons8.com/color/512/telegram-app.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a cloud-based messaging platform focused on speed, security, and versatility. Users can send messages, share multimedia, create channels, and participate in groups. End-to-end encryption ensures privacy, while bots, stickers, and file sharing enhance functionality. Telegram supports multiple devices, cloud storage, and synchronization for seamless communication. Notifications, search, and customization tools improve user experience. Regular updates provide new features, improve security, and optimize performance. Telegram has become a trusted messaging solution globally, connecting millions of users for personal, professional, and community interactions in an efficient and secure manner.",
+    "size": 60,
+    "reviews": 70000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 41500000 }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "https://img.icons8.com/color/512/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "TikTok is a social media platform where users create, share, and explore short-form videos. Features include video editing tools, music, effects, filters, and text overlays. The algorithm provides personalized recommendations based on interests and engagement, while live streaming and duets foster interaction. TikTok allows users to like, comment, and share content, making it highly engaging. Creators can monetize content and track performance through analytics. Regular updates improve interface, performance, and security. TikTok has become a global hub for creativity, entertainment, and learning, attracting millions of users who enjoy discovering trends and expressing themselves digitally.",
+    "size": 105,
+    "reviews": 160000000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 14000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 72000000 }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "https://img.icons8.com/color/512/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Google Drive is a cloud storage solution that allows users to store, access, and share files securely. It supports documents, spreadsheets, presentations, photos, and videos. Real-time collaboration enables multiple users to edit files simultaneously. Features include offline access, file organization, advanced search, and sharing permissions. Integration with Google Workspace improves productivity and workflow. Regular updates enhance security, performance, and interface usability. Millions rely on Google Drive for personal, educational, and professional file management. It provides a reliable, secure, and user-friendly platform for storing and managing digital content across devices globally.",
+    "size": 80,
+    "reviews": 60000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://img.icons8.com/color/512/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "description": "Google Photos is a photo and video storage and management service that allows users to organize, back up, and share media easily. It provides automatic categorization, search, editing tools, and album creation. Users can create shared albums, apply filters, and access content across multiple devices. Cloud storage ensures data safety, with encryption and offline access available. Regular updates enhance features, performance, and security. Google Photos is widely used for personal, family, and professional media management, offering a reliable, convenient, and accessible platform for organizing, editing, and sharing digital memories globally.",
+    "size": 70,
+    "reviews": 80000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 41000000 }
+    ]
+  },
+  {
+    "id": 37,
+    "image": "https://img.icons8.com/color/512/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Slack is a collaboration platform that enables teams to communicate efficiently through channels, direct messages, and group chats. Users can share files, integrate apps, search conversations, and receive notifications for important updates. Slack supports remote work, project management, and productivity through automation and workflow tools. Regular updates improve security, performance, and usability. Millions of professionals rely on Slack globally for team communication, collaboration, and information sharing. Its flexible, user-friendly design facilitates seamless interaction, ensuring effective coordination and productivity in business and organizational environments.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 38,
+    "image": "https://img.icons8.com/color/512/dropbox.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "description": "Dropbox is a cloud storage service that allows users to securely store, share, and synchronize files across devices. It supports file organization, collaboration, version history, and offline access. Users can share links, control permissions, and integrate with productivity apps. Security features and encryption ensure data protection. Regular updates improve usability, performance, and security. Dropbox is trusted worldwide for personal, educational, and professional use, providing a reliable platform for file management, collaboration, and workflow efficiency across multiple devices and operating systems.",
+    "size": 85,
+    "reviews": 70000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 33000000 }
+    ]
+  },
+  {
+    "id": 39,
+    "image": "https://img.icons8.com/color/512/adobe-acrobat-reader.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "description": "Adobe Acrobat Reader is a reliable application for viewing, editing, signing, and annotating PDF documents. It supports form filling, commenting, and file sharing across devices. Integration with Adobe Document Cloud provides synchronization and secure storage. Advanced features include PDF conversion, document merging, and editing tools. Regular updates improve performance, security, and usability. Acrobat Reader is widely used for personal, educational, and professional document management, providing a trusted, efficient, and accessible solution for working with PDFs across multiple devices.",
+    "size": 80,
+    "reviews": 35000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "id": 40,
+    "image": "https://img.icons8.com/color/512/evernote.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corp.",
+    "description": "Evernote is a note-taking and productivity app that allows users to capture ideas, organize notes, and manage tasks efficiently. It supports text, images, audio, and file attachments, with notebooks, tags, and reminders for organization. Synchronization across devices and offline access ensures flexibility. Search, collaboration, and editing tools enhance usability. Regular updates improve performance, interface, and security. Evernote helps users stay productive, manage information effectively, and streamline workflows for personal, educational, and professional purposes, serving millions globally.",
+    "size": 65,
+    "reviews": 25000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "id": 41,
+    "image": "https://img.icons8.com/color/512/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Slack is a collaboration platform for teams, offering channels, direct messaging, file sharing, and app integrations. It enhances productivity, remote work, and project management. Features include notifications, search, workflow automation, and collaboration tools. Regular updates improve performance and security. Millions rely on Slack for professional communication, team coordination, and collaboration worldwide.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 42,
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a cloud-based video conferencing app for hosting and attending online meetings, webinars, and virtual events. It supports HD video/audio, screen sharing, breakout rooms, and chat features. Integration with calendars and email improves workflow. Security measures include encryption and password protection. Regular updates enhance usability and performance. Zoom is widely used for remote work, education, and global collaboration, connecting millions seamlessly across devices.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "id": 43,
+    "image": "https://img.icons8.com/color/512/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Uber is a ride-hailing platform connecting riders with drivers globally. Users can request rides, track drivers, view fares, and pay securely. Uber also offers food delivery, freight, and micro-mobility options. Safety features include ratings, support, and GPS tracking. Regular updates improve navigation, performance, and security. Uber has transformed urban mobility, providing accessible, flexible, and reliable transportation services for personal, business, and delivery needs worldwide.",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 16000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 44,
+    "image": "https://img.icons8.com/color/512/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb connects travelers with hosts offering unique accommodations and experiences. Users can browse listings, book stays, and participate in local experiences. Features include secure payments, verified profiles, messaging, and trip planning tools. Hosts can manage properties and communicate efficiently. Regular updates improve safety, interface, and usability. Airbnb has revolutionized travel, offering personalized, authentic, and convenient lodging experiences for millions worldwide.",
+    "size": 85,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 45,
+    "image": "https://img.icons8.com/color/512/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is a visual discovery platform where users explore ideas, create boards, and share creative content. It supports collaboration, personalized recommendations, and shopping tools. Users can search for inspiration, follow interests, and engage with communities. Regular updates improve interface, performance, and security. Pinterest provides a trusted environment for discovering, saving, and sharing ideas worldwide, empowering creativity and planning.",
+    "size": 70,
+    "reviews": 45000000,
+    "ratingAvg": 4.3,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 26000000 }
+    ]
+  },
+  {
+    "id": 46,
+    "image": "https://img.icons8.com/color/512/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corp.",
+    "description": "LinkedIn is a professional networking platform connecting users with colleagues, recruiters, and industry peers. Users can create profiles, post content, apply for jobs, and participate in groups. Features include messaging, endorsements, learning courses, and analytics. Security and privacy tools protect user data. LinkedIn helps professionals advance careers, build connections, and access opportunities. Regular updates enhance usability, performance, and engagement across devices globally.",
+    "size": 95,
+    "reviews": 70000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 40000000 }
+    ]
+  },
+  {
+    "id": 47,
+    "image": "https://img.icons8.com/color/512/youtube.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is a video-sharing platform where users can upload, watch, and interact with content. It supports subscriptions, playlists, likes, comments, and live streaming. Users can access a vast library of videos, music, and tutorials, while creators can monetize content through ads and memberships. YouTube provides recommendations, analytics, and mobile and desktop access. Security and community guidelines protect users. Regular updates enhance usability, performance, and features. YouTube has become a global hub for entertainment, education, and creativity, engaging billions daily.",
+    "size": 120,
+    "reviews": 250000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 145000000 }
+    ]
+  },
+  {
+    "id": 48,
+    "image": "https://img.icons8.com/color/512/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Facebook is a social networking platform connecting users worldwide. It allows sharing posts, photos, videos, stories, and live streams. Features include messaging, events, groups, marketplace, and notifications. Users can engage with content, follow pages, and interact with communities. Security, privacy settings, and account controls protect users. Facebook continues to innovate with updates enhancing performance, interface, and engagement. It serves billions globally for social communication, entertainment, business promotion, and community interaction.",
+    "size": 110,
+    "reviews": 250000000,
+    "ratingAvg": 4.3,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 25000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 130000000 }
+    ]
+  },
+  {
+    "id": 49,
+    "image": "https://img.icons8.com/color/512/whatsapp.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "WhatsApp is a cross-platform messaging app enabling text, voice, and video communication securely. Users can create groups, share files, images, videos, and locations. End-to-end encryption ensures privacy. Features include voice/video calls, status updates, notifications, and integration with contacts. Regular updates improve performance, security, and features. WhatsApp serves billions globally for personal, professional, and group communication, providing a reliable, fast, and secure messaging platform across mobile and desktop devices.",
+    "size": 80,
+    "reviews": 300000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 200000000 }
+    ]
+  },
+  {
+    "id": 50,
+    "image": "https://img.icons8.com/color/512/instagram-new.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instagram is a visual social media platform allowing users to share photos, videos, stories, and reels. Features include filters, direct messaging, live streaming, shopping, and IGTV. Users can follow others, explore trends, and engage through likes, comments, and shares. Instagram provides content discovery, personalization, analytics, and creator monetization tools. Security features protect privacy and prevent abuse. Regular updates improve interface, performance, and engagement. Instagram connects millions globally, serving as a hub for creativity, self-expression, entertainment, and social interaction in a visually rich environment.",
+    "size": 110,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 60000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  },
+  {
+    "id": 51,
+    "image": "https://img.icons8.com/color/512/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Discord is a versatile communication platform designed for communities, gamers, and professionals to connect via voice, video, and text. Users can create servers, join communities, chat in channels, share files, and stream live content. Features include moderation tools, roles, screen sharing, and integrations with other apps. Discord supports multiple devices and offers customization through bots, emojis, and notifications. Regular updates enhance security, performance, and user experience. Millions rely on Discord daily for social interaction, gaming coordination, learning, and professional collaboration, providing a secure, reliable, and interactive platform for engaging and connecting with communities worldwide.",
+    "size": 95,
+    "reviews": 60000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 31000000 }
+    ]
+  },
+  {
+    "id": 52,
+    "image": "https://img.icons8.com/color/512/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Snapchat is a multimedia messaging app where users can send photos, videos, and messages that disappear after viewing. It offers stories, lenses, filters, and augmented reality features to enhance creativity and fun. Users can chat, share memories, and explore content from creators and brands. Security, privacy, and parental controls protect users. Snapchat integrates social, entertainment, and communication features into a fast, interactive platform. Regular updates improve interface, performance, and features. Millions worldwide rely on Snapchat for daily communication, entertainment, and self-expression in a visually engaging environment.",
+    "size": 100,
+    "reviews": 120000000,
+    "ratingAvg": 4.2,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 53,
+    "image": "https://img.icons8.com/color/512/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Uber is a ride-hailing and mobility platform that connects riders with drivers quickly and securely. Users can request rides, view fare estimates, track drivers in real time, and pay seamlessly. Uber also offers food delivery and micro-mobility solutions. Safety features include driver ratings, GPS tracking, and support services. The app supports multiple languages, accessibility options, and cross-device usage. Regular updates enhance functionality, security, and user experience. Uber has transformed urban transportation, providing reliable, flexible, and convenient mobility solutions for personal, business, and delivery needs worldwide.",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 16000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 54,
+    "image": "https://img.icons8.com/color/512/tinder.png",
+    "title": "Tinder",
+    "companyName": "Tinder Inc.",
+    "description": "Tinder is a dating app that connects users based on preferences, location, and mutual interests. Users can swipe to like or pass on profiles, chat with matches, and explore premium features like super likes and boost. Safety and privacy tools ensure secure interactions. The app integrates social features, personalization, and notifications to enhance engagement. Regular updates improve interface, performance, and security. Tinder has become a popular platform for meeting new people, fostering relationships, and social discovery for millions globally.",
+    "size": 90,
+    "reviews": 85000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 37000000 }
+    ]
+  },
+  {
+    "id": 55,
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a global e-commerce and cloud computing company that offers millions of products, fast shipping, and secure online shopping. Users can browse categories, read reviews, use personalized recommendations, and access services like Prime Video, Kindle, and Audible. Sellers can manage listings, promotions, and analytics efficiently. Security, convenience, and reliability are prioritized. Regular updates enhance user experience and performance. Amazon serves millions globally, providing a trusted platform for personal shopping, professional business, and digital content consumption.",
+    "size": 120,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 56,
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a subscription-based streaming platform offering a vast library of movies, series, documentaries, and original content globally. Users can create multiple profiles, download content offline, and receive personalized recommendations. The platform supports smart TVs, smartphones, and desktops, with parental controls and watchlists. Interactive storytelling, HD quality, and regular updates enhance user experience, security, and engagement. Millions rely on Netflix daily for entertainment, learning, and family viewing across diverse genres and global content.",
+    "size": 100,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 57,
+    "image": "https://img.icons8.com/color/512/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Spotify is a music streaming service providing millions of songs, playlists, and podcasts to users worldwide. Users can explore genres, follow artists, create playlists, and enjoy offline listening. Personalized recommendations, collaborative playlists, and social sharing enhance engagement. Premium subscriptions offer ad-free experience and high-quality audio. Integration with devices and voice assistants ensures seamless listening. Regular updates improve interface, performance, and security. Spotify serves music lovers, creators, and podcasters globally, offering a versatile, reliable, and interactive platform for audio entertainment and discovery.",
+    "size": 75,
+    "reviews": 95000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+  {
+    "id": 58,
+    "image": "https://img.icons8.com/color/512/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb is an online platform connecting travelers with hosts offering accommodations and unique experiences. Users can browse listings, read reviews, book stays, and explore local activities. The platform ensures secure payments, verified profiles, and messaging options. Hosts can manage properties efficiently. Regular updates improve usability, security, and interface. Airbnb has transformed travel, providing personalized, convenient, and authentic lodging and experiences for millions globally.",
+    "size": 85,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 59,
+    "image": "https://img.icons8.com/color/512/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Google Drive is a cloud-based storage solution allowing users to store, access, and share files securely. It supports documents, spreadsheets, presentations, and multimedia files. Collaboration is enhanced with real-time editing, sharing, and comments. Offline access, search, and file organization improve usability. Integration with Google Workspace enhances productivity. Regular updates ensure security, performance, and interface improvements. Millions rely on Google Drive for personal, educational, and professional file management globally, making it a versatile, secure, and convenient digital storage platform.",
+    "size": 80,
+    "reviews": 60000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 60,
+    "image": "https://img.icons8.com/color/512/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "description": "Google Photos is a photo and video management app providing secure cloud storage, easy organization, and sharing. Users can create albums, edit images, apply filters, and access content across devices. Automatic categorization, search, and backup simplify management. Integration with Google services enhances workflow. Security, offline access, and regular updates ensure reliability, usability, and performance. Millions worldwide rely on Google Photos for storing, managing, and sharing memories safely and efficiently, making it a versatile platform for personal and professional photo management.",
+    "size": 70,
+    "reviews": 80000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 41000000 }
+    ]
+  },
+  {
+    "id": 61,
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a cloud-based video conferencing platform enabling virtual meetings, webinars, and online events for individuals and businesses. Users can join high-quality audio and video calls, share screens, and participate in breakout rooms. Chat features, virtual backgrounds, and recording enhance collaboration. Security is ensured with encryption, passwords, and waiting rooms. Zoom integrates with calendars and email for streamlined scheduling. Regular updates improve performance, usability, and reliability. Millions globally rely on Zoom for remote work, online learning, team collaboration, and social interaction, making it a trusted, secure, and versatile communication solution across devices and platforms.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "id": 62,
+    "image": "https://img.icons8.com/color/512/microsoft-teams.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "description": "Microsoft Teams is a collaborative platform integrating chat, video meetings, file storage, and app integration for teams and organizations. Users can communicate through channels, share documents, schedule meetings, and collaborate in real time. Features include task management, screen sharing, and seamless integration with Microsoft Office apps. Security measures include encryption, compliance tools, and access control. Regular updates enhance functionality, performance, and interface usability. Teams supports remote work, project coordination, and organizational productivity for millions of users worldwide, providing a secure, reliable, and comprehensive communication and collaboration solution.",
+    "size": 110,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 63,
+    "image": "https://img.icons8.com/color/512/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Slack is a professional collaboration tool designed for team communication and project management. It allows messaging via channels and direct messages, file sharing, video calls, and integration with productivity apps. Users can set notifications, organize conversations, and automate workflows. Security features include encryption, access control, and compliance measures. Regular updates improve interface, usability, and performance. Millions of organizations worldwide use Slack to coordinate teams, enhance collaboration, and streamline workflows, making it a central hub for professional communication and efficient teamwork.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 64,
+    "image": "https://img.icons8.com/color/512/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb is an online marketplace connecting travelers with hosts offering unique accommodations and experiences worldwide. Users can search listings, book stays, and explore local activities. Features include secure payment, messaging, reviews, and verified profiles. Hosts can manage listings, pricing, and guest interactions efficiently. The platform ensures safety, reliability, and convenience for both guests and hosts. Regular updates improve interface, performance, and usability. Millions globally rely on Airbnb to find personalized, authentic, and memorable travel experiences, revolutionizing the way people explore and stay at destinations worldwide.",
+    "size": 85,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 65,
+    "image": "https://img.icons8.com/color/512/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Spotify is a music streaming service offering millions of songs, playlists, and podcasts globally. Users can explore genres, follow artists, create playlists, and enjoy personalized recommendations. Premium subscriptions provide ad-free listening, offline access, and high-quality audio. Integration with devices and social sharing enhance the experience. Regular updates improve performance, interface, and security. Spotify serves millions of users worldwide as a versatile platform for music discovery, audio entertainment, and creative exploration, providing reliable access to music and podcasts anytime, anywhere.",
+    "size": 75,
+    "reviews": 95000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+  {
+    "id": 66,
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a subscription-based streaming platform offering a vast library of movies, series, and original content worldwide. Users can create profiles, download content for offline viewing, and get personalized recommendations. The platform supports smart TVs, smartphones, and desktops, with parental controls and watchlists. Interactive storytelling and high-definition streaming enhance the experience. Regular updates improve performance, security, and interface. Millions globally rely on Netflix daily for entertainment, learning, and family viewing across diverse genres and international content.",
+    "size": 100,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "id": 67,
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a global e-commerce platform providing millions of products, fast shipping, and secure online shopping. Users can browse categories, read reviews, access personalized recommendations, and use services like Prime Video and Kindle. Sellers can manage listings, promotions, and analytics efficiently. Security, reliability, and convenience are prioritized. Regular updates enhance user experience, interface, and performance. Amazon serves millions globally, offering a trusted platform for shopping, business, and digital content consumption.",
+    "size": 120,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 68,
+    "image": "https://img.icons8.com/color/512/youtube.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is a video-sharing platform where users can upload, watch, and interact with videos worldwide. It supports subscriptions, playlists, comments, live streaming, and content discovery. Creators can monetize content, track analytics, and engage viewers. YouTube offers recommendations, search, and personalized feeds. Security features and community guidelines protect users. Regular updates improve interface, performance, and user engagement. Millions rely on YouTube daily for entertainment, learning, and creative expression across diverse genres and global content.",
+    "size": 120,
+    "reviews": 250000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 145000000 }
+    ]
+  },
+  {
+    "id": 69,
+    "image": "https://img.icons8.com/color/512/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Facebook is a global social networking platform connecting users through posts, photos, videos, and stories. Users can interact via likes, comments, shares, and messaging. Features include events, marketplace, groups, and notifications. Security and privacy settings protect accounts. Facebook continues to innovate, offering updates that improve interface, performance, and engagement. Millions rely on Facebook daily for social interaction, entertainment, communication, and business promotion, making it a hub for community, creativity, and connection worldwide.",
+    "size": 110,
+    "reviews": 250000000,
+    "ratingAvg": 4.3,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 25000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 130000000 }
+    ]
+  },
+  {
+    "id": 70,
+    "image": "https://img.icons8.com/color/512/instagram-new.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instagram is a visual social media platform enabling users to share photos, videos, stories, and reels. Features include filters, direct messaging, live streaming, shopping, and IGTV. Users can explore content, follow interests, and engage with communities. Personalized recommendations, analytics, and security tools enhance usability. Regular updates improve performance, interface, and engagement. Instagram serves millions globally as a hub for creativity, self-expression, entertainment, and social interaction in a visually rich environment.",
+    "size": 110,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 60000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  },
+  {
+    "id": 71,
+    "image": "https://img.icons8.com/color/512/whatsapp.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "WhatsApp is a cross-platform messaging app enabling text, voice, and video communication securely. Users can create groups, share files, images, videos, and locations. End-to-end encryption ensures privacy and security. Features include voice/video calls, status updates, notifications, and integration with contacts. Regular updates improve usability, performance, and security. WhatsApp serves billions globally for personal, professional, and group communication, providing a reliable, fast, and secure messaging platform across mobile and desktop devices.",
+    "size": 80,
+    "reviews": 300000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 75000000 },
+      { "name": "5 star", "count": 200000000 }
+    ]
+  },
+  {
+    "id": 72,
+    "image": "https://img.icons8.com/color/512/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "TikTok is a short-video social platform allowing users to create, share, and explore content across diverse categories. Users can apply filters, effects, music, and editing tools to enhance videos. Features include trending challenges, duets, live streaming, and personalized feeds. TikTok ensures security and privacy through account controls and content moderation. Regular updates improve usability, performance, and engagement. Millions globally use TikTok for entertainment, learning, social interaction, and creative expression, making it a leading platform for short-form video content worldwide.",
+    "size": 95,
+    "reviews": 150000000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "id": 73,
+    "image": "https://img.icons8.com/color/512/telegram-app.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a cloud-based messaging app emphasizing speed, security, and reliability. Users can send messages, media, and files, create groups and channels, and enjoy encrypted communication. Features include bots, stickers, polls, voice chats, and seamless multi-device support. Security is reinforced through end-to-end encryption and privacy settings. Regular updates enhance performance, interface, and functionality. Millions worldwide use Telegram for private and professional communication, content sharing, and community interaction, making it a versatile and trusted platform for secure messaging and collaboration.",
+    "size": 85,
+    "reviews": 80000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 36000000 }
+    ]
+  },
+  {
+    "id": 74,
+    "image": "https://img.icons8.com/color/512/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Google Maps is a mapping and navigation platform providing accurate routes, traffic updates, public transit information, and location search. Users can explore nearby places, businesses, restaurants, and landmarks. Features include street view, offline maps, turn-by-turn navigation, and real-time updates. Integration with other Google services enhances usability. Regular updates improve performance, interface, and data accuracy. Millions worldwide rely on Google Maps daily for travel planning, navigation, exploration, and discovering local services, making it a reliable, essential tool for mobility and geographic information.",
+    "size": 120,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 60000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  },
+  {
+    "id": 75,
+    "image": "https://img.icons8.com/color/512/apple-music.png",
+    "title": "Apple Music",
+    "companyName": "Apple Inc.",
+    "description": "Apple Music is a subscription-based music streaming service providing millions of songs, curated playlists, and radio stations. Users can download music for offline listening, explore genres, follow artists, and receive personalized recommendations. Integration with Apple devices, Siri, and iCloud enhances the experience. Security, high-quality audio, and intuitive interface ensure a seamless listening experience. Regular updates improve performance, usability, and features. Millions globally rely on Apple Music for entertainment, music discovery, and creative engagement across devices and platforms.",
+    "size": 85,
+    "reviews": 65000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 31000000 }
+    ]
+  },
+  {
+    "id": 76,
+    "image": "https://img.icons8.com/color/512/skype.png",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "description": "Skype is a communication platform providing video and voice calls, messaging, and file sharing. Users can make individual or group calls, host conferences, and collaborate with teams. Features include screen sharing, live subtitles, and integration with Microsoft services. Security and encryption ensure private communication. Regular updates enhance usability, performance, and interface. Millions rely on Skype worldwide for personal, professional, and educational communication, offering a trusted and versatile platform for virtual interaction across multiple devices.",
+    "size": 90,
+    "reviews": 75000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 28000000 },
+      { "name": "5 star", "count": 34000000 }
+    ]
+  },
+  {
+    "id": 77,
+    "image": "https://img.icons8.com/color/512/google-chrome.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "description": "Google Chrome is a fast, secure, and versatile web browser providing smooth browsing experiences. Users can open multiple tabs, use bookmarks, autofill, and extensions for customization. Security features include safe browsing, sandboxing, and privacy controls. Integration with Google services enhances productivity. Regular updates improve performance, security, and interface. Millions globally rely on Google Chrome for web access, research, entertainment, and productivity, making it one of the most popular and trusted browsers worldwide.",
+    "size": 100,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 80000000 },
+      { "name": "5 star", "count": 190000000 }
+    ]
+  },
+  {
+    "id": 78,
+    "image": "https://img.icons8.com/color/512/adobe-acrobat-reader.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "description": "Adobe Acrobat Reader is a PDF viewer and editor enabling users to open, view, annotate, and sign PDF documents. Features include form filling, text highlighting, commenting, and secure sharing. Integration with cloud services allows file access across devices. Regular updates enhance performance, usability, and security. Millions use Adobe Acrobat Reader globally for work, education, and personal use, ensuring efficient, reliable, and secure management of PDF files.",
+    "size": 85,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 79,
+    "image": "https://img.icons8.com/color/512/evernote.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "description": "Evernote is a note-taking and organization app allowing users to capture ideas, create to-do lists, and manage tasks efficiently. Users can attach images, PDFs, and documents, organize notes with tags and notebooks, and collaborate with others. Cloud synchronization provides seamless access across devices. Security features protect data privacy. Regular updates enhance usability, performance, and interface. Millions rely on Evernote globally for personal productivity, project management, and creative organization, making it a versatile and trusted tool for managing information.",
+    "size": 80,
+    "reviews": 40000000,
+    "ratingAvg": 4.4,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 80,
+    "image": "https://img.icons8.com/color/512/dropbox.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "description": "Dropbox is a cloud storage service providing secure file storage, sharing, and collaboration tools. Users can upload documents, photos, and videos, create shared folders, and manage access permissions. Integration with productivity apps enhances workflow. Features include offline access, synchronization, and backup. Security, privacy, and encryption protect data. Regular updates improve performance, interface, and usability. Millions globally rely on Dropbox for personal, educational, and professional file management, ensuring a reliable, efficient, and versatile platform for digital storage and collaboration.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "id": 81,
+    "image": "https://img.icons8.com/color/512/venmo.png",
+    "title": "Venmo",
+    "companyName": "PayPal Holdings, Inc.",
+    "description": "Venmo is a mobile payment service allowing users to send and receive money quickly and securely. Users can link bank accounts, credit cards, or debit cards, make peer-to-peer payments, split bills, and pay for goods or services. Social features allow users to share payment notes and activity feeds. Security measures include encryption, PIN codes, and fraud protection. Regular updates enhance performance, usability, and security. Millions rely on Venmo for fast, reliable, and convenient financial transactions, making it a trusted platform for personal and business payments.",
+    "size": 75,
+    "reviews": 30000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "id": 82,
+    "image": "https://img.icons8.com/color/512/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Uber is a ride-hailing and mobility platform connecting riders with drivers efficiently and securely. Users can request rides, view fare estimates, track drivers in real-time, and pay seamlessly. Uber also offers food delivery and micromobility solutions. Safety features include driver ratings, GPS tracking, and support services. The app supports multiple languages and accessibility options. Regular updates improve functionality, security, and user experience. Millions worldwide rely on Uber for flexible, convenient, and reliable transportation services for personal, professional, and delivery needs.",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 16000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 83,
+    "image": "https://img.icons8.com/color/512/lyft.png",
+    "title": "Lyft",
+    "companyName": "Lyft, Inc.",
+    "description": "Lyft is a ride-sharing platform connecting riders with drivers for convenient transportation. Users can schedule rides, track drivers in real-time, pay securely, and access ride history. Features include ride-sharing, bike and scooter rentals, and accessibility options. Safety measures include driver verification, ride tracking, and in-app support. Regular updates enhance performance, usability, and interface. Millions rely on Lyft daily for safe, reliable, and flexible urban mobility and transportation services.",
+    "size": 90,
+    "reviews": 40000000,
+    "ratingAvg": 4.2,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 84,
+    "image": "https://img.icons8.com/color/512/doordash.png",
+    "title": "DoorDash",
+    "companyName": "DoorDash, Inc.",
+    "description": "DoorDash is an on-demand food delivery platform connecting users with local restaurants. Users can browse menus, place orders, track deliveries in real-time, and pay securely. Features include scheduled deliveries, promotions, and contactless delivery options. Restaurants benefit from exposure and order management tools. Regular updates enhance performance, usability, and reliability. Millions rely on DoorDash daily for convenient, fast, and safe food delivery, providing a seamless experience for customers and restaurants alike.",
+    "size": 85,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 85,
+    "image": "https://img.icons8.com/color/512/grubhub.png",
+    "title": "Grubhub",
+    "companyName": "Grubhub Inc.",
+    "description": "Grubhub is an online food delivery service connecting users with restaurants for quick and convenient ordering. Users can browse menus, read reviews, track orders, and pay online. Features include pickup options, delivery tracking, promotions, and contactless delivery. Restaurants can manage orders and increase visibility. Regular updates improve usability, performance, and security. Millions rely on Grubhub for seamless, reliable, and safe food delivery experiences in their local communities.",
+    "size": 80,
+    "reviews": 25000000,
+    "ratingAvg": 4.3,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "id": 86,
+    "image": "https://img.icons8.com/color/512/google-calendar.png",
+    "title": "Google Calendar",
+    "companyName": "Google LLC",
+    "description": "Google Calendar is a productivity tool that allows users to schedule, manage, and organize events, meetings, and tasks efficiently. Features include reminders, recurring events, integration with Gmail and other Google services, shared calendars, and offline access. Users can personalize notifications, color-code events, and collaborate with teams. Regular updates improve usability, performance, and security. Millions rely on Google Calendar daily to manage personal, professional, and educational schedules, ensuring better time management and organization.",
+    "size": 70,
+    "reviews": 60000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 87,
+    "image": "https://img.icons8.com/color/512/duolingo.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "description": "Duolingo is a language learning app providing interactive lessons in multiple languages. Users can practice reading, writing, speaking, and listening through gamified exercises and challenges. Features include streaks, leaderboards, reminders, and offline access. Duolingo fosters motivation through rewards, quizzes, and progress tracking. Regular updates enhance performance, usability, and content variety. Millions worldwide use Duolingo for education, skill development, and language proficiency improvement, making it a fun, engaging, and effective learning platform.",
+    "size": 75,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "id": 88,
+    "image": "https://img.icons8.com/color/512/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "description": "LinkedIn is a professional networking platform connecting users with industry professionals, companies, and opportunities. Features include job postings, networking, messaging, content sharing, and learning resources. Users can showcase skills, experiences, and achievements. Companies can post jobs, promote brands, and engage with talent. Regular updates improve performance, usability, and security. Millions rely on LinkedIn for career development, recruitment, professional networking, and knowledge sharing worldwide, making it an essential platform for business and professional growth.",
+    "size": 95,
+    "reviews": 70000000,
+    "ratingAvg": 4.5,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 89,
+    "image": "https://img.icons8.com/color/512/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is a visual discovery platform allowing users to explore, save, and share ideas across categories like fashion, food, home, and DIY. Users can create boards, pin images, and discover inspiration from communities worldwide. Features include personalized recommendations, search, and collaboration. Regular updates enhance interface, performance, and security. Millions rely on Pinterest daily for creativity, inspiration, and idea management, making it a versatile platform for personal and professional visual exploration.",
+    "size": 85,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 90,
+    "image": "https://img.icons8.com/color/512/cash-app.png",
+    "title": "Cash App",
+    "companyName": "Block, Inc.",
+    "description": "Cash App is a mobile payment service that allows users to send and receive money instantly. Features include bank transfers, debit card support, investing in stocks or Bitcoin, and peer-to-peer payments. Security measures include encryption, PIN codes, and fraud protection. Regular updates improve usability, performance, and security. Millions rely on Cash App daily for convenient, reliable, and safe financial transactions, making it a trusted platform for personal and business payments.",
+    "size": 80,
+    "reviews": 30000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "id": 91,
+    "image": "https://img.icons8.com/color/512/etsy.png",
+    "title": "Etsy",
+    "companyName": "Etsy, Inc.",
+    "description": "Etsy is an e-commerce platform focused on handmade, vintage, and unique goods. Users can browse, buy, and sell products such as clothing, art, jewelry, and home décor. Features include secure payments, reviews, and shop management tools. Sellers can showcase products, manage inventory, and reach customers globally. Regular updates enhance performance, usability, and security. Millions use Etsy for unique shopping experiences and creative entrepreneurship worldwide.",
+    "size": 90,
+    "reviews": 40000000,
+    "ratingAvg": 4.5,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 92,
+    "image": "https://img.icons8.com/color/512/shopify.png",
+    "title": "Shopify",
+    "companyName": "Shopify Inc.",
+    "description": "Shopify is an e-commerce platform enabling businesses to create online stores, manage products, process payments, and track orders. Users can customize storefronts, manage inventory, and access analytics. Security and reliability are prioritized with encrypted transactions and data protection. Integration with apps and marketing tools enhances operations. Regular updates improve interface, performance, and usability. Millions globally rely on Shopify to build, scale, and manage online businesses efficiently, making it a leading e-commerce solution for entrepreneurs and companies.",
+    "size": 100,
+    "reviews": 35000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "id": 93,
+    "image": "https://img.icons8.com/color/512/ebay.png",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "description": "eBay is an online marketplace connecting buyers and sellers globally for new and used items. Users can browse listings, bid, buy instantly, and sell products securely. Features include auctions, seller ratings, payment processing, and global shipping. Regular updates improve usability, performance, and security. Millions rely on eBay for e-commerce, collectibles, and unique shopping experiences worldwide, providing a trusted platform for personal and professional transactions.",
+    "size": 95,
+    "reviews": 50000000,
+    "ratingAvg": 4.4,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 26000000 }
+    ]
+  },
+  {
+    "id": 94,
+    "image": "https://img.icons8.com/color/512/walmart.png",
+    "title": "Walmart",
+    "companyName": "Walmart Inc.",
+    "description": "Walmart is a retail and e-commerce platform providing a wide range of products including groceries, electronics, clothing, and home goods. Users can shop online or in-store, access deals, track orders, and manage accounts. Features include delivery, pickup, and payment options. Regular updates enhance usability, performance, and security. Millions rely on Walmart for convenient shopping, affordable pricing, and reliable service, making it a trusted retail destination globally.",
+    "size": 110,
+    "reviews": 70000000,
+    "ratingAvg": 4.3,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 36000000 }
+    ]
+  },
+  {
+    "id": 95,
+    "image": "https://img.icons8.com/color/512/target.png",
+    "title": "Target",
+    "companyName": "Target Corporation",
+    "description": "Target is a retail platform offering a wide variety of products including clothing, electronics, home goods, and groceries. Users can shop online or in-store, manage orders, and access deals and promotions. Features include delivery, pickup, and loyalty rewards. Regular updates improve usability, performance, and security. Millions rely on Target for affordable pricing, convenience, and reliable shopping experiences, making it a trusted retail destination worldwide.",
+    "size": 100,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 25000000 }
+    ]
+  },
+  {
+    "id": 96,
+    "image": "https://img.icons8.com/color/512/starbucks.png",
+    "title": "Starbucks",
+    "companyName": "Starbucks Corporation",
+    "description": "Starbucks is a coffeehouse and beverage app providing users with ordering, delivery, and rewards features. Users can browse menus, customize drinks, place orders ahead, and earn loyalty points. Integration with stores enables seamless pickup and delivery. Regular updates improve performance, usability, and interface. Millions rely on Starbucks app for convenience, rewards, and coffee experience, making it a trusted platform for beverage enthusiasts globally.",
+    "size": 85,
+    "reviews": 40000000,
+    "ratingAvg": 4.5,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 97,
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a streaming platform providing on-demand movies, TV shows, and original content. Users can browse, stream, and download content with personalized recommendations. Features include profiles, watchlists, parental controls, and multi-device support. Regular updates enhance performance, usability, and interface. Millions rely on Netflix daily for entertainment, making it a leading global streaming service for media consumption and content discovery.",
+    "size": 120,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 80000000 },
+      { "name": "5 star", "count": 190000000 }
+    ]
+  },
+  {
+    "id": 98,
+    "image": "https://img.icons8.com/color/512/hulu.png",
+    "title": "Hulu",
+    "companyName": "Hulu, LLC",
+    "description": "Hulu is a streaming service offering on-demand TV shows, movies, and live TV content. Users can explore curated content, manage watchlists, receive recommendations, and stream across devices. Features include offline downloads, parental controls, and multiple profiles. Regular updates improve usability, performance, and security. Millions rely on Hulu for entertainment, binge-watching, and access to exclusive content, making it a versatile streaming platform worldwide.",
+    "size": 110,
+    "reviews": 60000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 36000000 }
+    ]
+  },
+  {
+    "id": 99,
+    "image": "https://img.icons8.com/color/512/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "description": "Spotify is a music streaming platform providing access to millions of songs, podcasts, and playlists. Users can create playlists, follow artists, download offline content, and receive personalized recommendations. Features include curated playlists, social sharing, and high-quality audio. Regular updates enhance usability, interface, and performance. Millions rely on Spotify daily for entertainment, music discovery, and audio content, making it a leading platform for streaming music globally.",
+    "size": 100,
+    "reviews": 200000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 80000000 },
+      { "name": "5 star", "count": 190000000 }
+    ]
+  },
+  {
+    "id": 100,
+    "image": "https://img.icons8.com/color/512/uber.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a global e-commerce platform offering a wide range of products including electronics, clothing, home goods, and groceries. Users can shop online, track orders, manage accounts, and access deals and promotions. Features include delivery, pickup, Prime membership benefits, and secure payments. Regular updates enhance usability, performance, and security. Millions rely on Amazon for convenient, reliable, and fast shopping experiences, making it one of the most trusted retail platforms worldwide.",
+    "size": 120,
+    "reviews": 250000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 80000000 },
+      { "name": "5 star", "count": 190000000 }
+    ]
+  }
+]
+
+
+
+
+
+
+
+

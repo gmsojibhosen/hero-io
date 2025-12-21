@@ -29,7 +29,7 @@ const Nabvar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <Link hrefLang='blank' to={'https://github.com/gmsojibhosen'}><a className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"><img src={Github} alt="" /> Contribute</a></Link>
+    <Link  to={'https://github.com/gmsojibhosen'} className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"><img src={Github}  /> Contribute</Link>
   </div>
 </div>
 </div>
