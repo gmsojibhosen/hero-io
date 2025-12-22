@@ -1,9 +1,22 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useLoaderData } from 'react-router';
 import AllApps from '../../components/AllApps/AllApps';
+import { toast} from 'react-toastify';
 
 const Apps = () => {
-  const apps = useLoaderData()
+  const apps = useLoaderData();
+    const [search, setSearch] = useState('');
+    const filterApp = apps.filter(app => app.title.toLowerCase().includes(search.toLowerCase()));
+
+   useEffect(() => {
+    if (search && filterApp.length === 0) {
+       toast("Apps Not Found!")
+    }
+  }, [search, filterApp.length]);
+
+  const handleOnChange = (e) => {
+    setSearch(e.target.value)
+  }
     return (
         <section className='py-20 max-w-7xl mx-auto'>
             <div className='text-center '>
@@ -27,13 +40,13 @@ const Apps = () => {
       <path d="m21 21-4.3-4.3"></path>
     </g>
   </svg>
-  <input type="search" required placeholder="Search" />
+  <input type="search" onChange={handleOnChange} required placeholder="Search"  value={search} className='focus:border-0'/>
 </label>
                 </div>
 
             <div className='grid grid-cols-4  gap-4'>
                   {
-                    apps.map(app => <AllApps key={app.id} app = {app}></AllApps>)
+                    filterApp.map(app => <AllApps key={app.id} app = {app}></AllApps>)
                   }
             </div>
         </section>
