@@ -1,6 +1,9 @@
 import React from 'react';
+import { useLoaderData } from 'react-router';
+import AllApps from '../../components/AllApps/AllApps';
 
 const Apps = () => {
+  const apps = useLoaderData()
     return (
         <section className='py-20 max-w-7xl mx-auto'>
             <div className='text-center '>
@@ -9,8 +12,8 @@ const Apps = () => {
             </div>
 
             
-                <div className=' flex justify-between  mt-10'>
-                    <p className='font-semibold text-2xl'>(132) Apps Found</p>
+                <div className=' flex justify-between  mt-10 mb-4'>
+                    <p className='font-semibold text-2xl'>({apps.length}) Apps Found</p>
                     <label className="input">
   <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <g
@@ -27,7 +30,12 @@ const Apps = () => {
   <input type="search" required placeholder="Search" />
 </label>
                 </div>
-            
+
+            <div className='grid grid-cols-4  gap-4'>
+                  {
+                    apps.map(app => <AllApps key={app.id} app = {app}></AllApps>)
+                  }
+            </div>
         </section>
     );
 };

@@ -15,7 +15,7 @@ const Trending = () => {
 
             <div className='grid grid-cols-4  gap-4'>
                 {
-                    apps.map(app => <TrendingApps key={app.id} app = {app}></TrendingApps>)
+                    apps.slice(0, 12).map(app => <TrendingApps key={app.id} app = {app}></TrendingApps>)
                 }
             </div>
 

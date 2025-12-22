@@ -1,7 +1,7 @@
 
 import React from 'react';
 import download from '../../assets/icon-downloads.png';
-import rating from '../../assets/icon-ratings.png'
+import rating from '../../assets/icon-ratings.png';
 import { Link } from 'react-router';
 const TrendingApps = ({app}) => {
 
