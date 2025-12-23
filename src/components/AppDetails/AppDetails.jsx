@@ -4,6 +4,8 @@ import downloadIcon from '../../assets/icon-downloads.png';
 import ratingIcon from '../../assets/icon-ratings.png';
 import reviewIcon from '../../assets/icon-review.png';
 import Charts from '../Charts/Charts';
+import { addToLoclaStorage } from '../../localStore';
+import { toast } from 'react-toastify';
 const AppDetails = () => {
 
     const {id} = useParams()
@@ -13,7 +15,7 @@ const AppDetails = () => {
     const apps = appsData.find(a => a.id === appId)
    
     console.log(typeof apps)
-   
+   const appID = apps.id;
   const {image, title,downloads,ratingAvg, companyName,size,reviews,ratings,description} = apps;
 
   const formatDownloads = (num) => {
@@ -21,9 +23,20 @@ const AppDetails = () => {
   if (num >= 1_000_000) return (num / 1_000_000).toFixed(1) + ' M ';
   if (num >= 1_000) return (num / 1_000).toFixed(1) + ' K ';
   return num.toString();
-
- 
 };
+
+const handleSetLoclaStore = () => {
+ const isStored = addToLoclaStorage(appID)
+  
+ if(isStored) {
+  toast.success(`${title} installed successfully!`);
+ }
+
+ else {
+
+  toast.warn(`${title} is already installed!`);
+ }
+}
    
     return (
         <section className='max-w-7xl mx-auto py-20'>
@@ -59,7 +72,7 @@ const AppDetails = () => {
                   </div>
                   
                 </div>
-                <button className=' mt-5 font-semibold text-[1.25rem] bg-[#00D390] rounded-sm text-white py-3.5 px-5'>Install Now ({size} MB)</button>
+                <button onClick={() => handleSetLoclaStore()} className=' mt-5 font-semibold text-[1.25rem] bg-[#00D390] rounded-sm text-white py-3.5 px-5'>Install Now ({size} MB)</button>
             </div>
             </div>
 
