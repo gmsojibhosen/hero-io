@@ -1,11 +1,10 @@
 import React from 'react';
 import { Link, useLoaderData } from 'react-router';
-import TrendingApps from '../TrendingApps/TrendingApps';
+import AllApps from '../AllApps/AllApps';
 
 const Trending = () => {
 
     const apps = useLoaderData()
-    console.log(apps.length)
     return (
         <section className='pt-20 pb-20 max-w-7xl mx-auto'>
             <div className='mb-10'>
@@ -15,7 +14,7 @@ const Trending = () => {
 
             <div className='grid grid-cols-4  gap-4'>
                 {
-                    apps.slice(0, 12).map(app => <TrendingApps key={app.id} app = {app}></TrendingApps>)
+                    apps.slice(0, 12).map(app => <AllApps key={app.id} app = {app}></AllApps>)
                 }
             </div>
 

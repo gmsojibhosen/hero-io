@@ -1,8 +1,11 @@
 import React from 'react';
 import download from '../../assets/icon-downloads.png';
 import rating from '../../assets/icon-ratings.png';
+import { Link } from 'react-router';
+
+
 const AllApps = ({app}) => {
-    const {image, title,downloads,ratingAvg} = app;
+    const {id, image, title,downloads,ratingAvg} = app;
 
 const formatDownloads = (num) => {
   if (num >= 1_000_000_000) return (num / 1_000_000_000).toFixed(1) + ' B ';
@@ -11,7 +14,10 @@ const formatDownloads = (num) => {
   return num.toString();
 };
     return (
-         <div className='bg-white p-4 shadow'>
+       <div>
+        <Link to={`/appDetails/${id}`}>
+
+         <div className='bg-white p-4 shadow hover:shadow-lg transition-shadow duration-300'>
                     <div className='bg-[#D9D9D9] mb-4 rounded-md'>
                         <img className='w-full h-69' src={image} />
                         </div>
@@ -30,6 +36,9 @@ const formatDownloads = (num) => {
                                 </div>
                         </div>
                 </div>
+                </Link>
+       </div>
+        
     );
 };
 
