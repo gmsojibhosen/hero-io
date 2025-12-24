@@ -1,5 +1,5 @@
 
-import {  useLoaderData, useParams } from 'react-router';
+import {  Link, useLoaderData, useParams } from 'react-router';
 import downloadIcon from '../../assets/icon-downloads.png';
 import ratingIcon from '../../assets/icon-ratings.png';
 import reviewIcon from '../../assets/icon-review.png';
@@ -12,9 +12,10 @@ const AppDetails = () => {
     const appId = parseInt(id)
     const appsData = useLoaderData()
    
-    const apps = appsData.find(a => a.id === appId)
+    const apps = appsData.find(a => a.id === appId);
+    if (!apps) return <p>App not found</p>;
+
    
-    console.log(typeof apps)
    const appID = apps.id;
   const {image, title,downloads,ratingAvg, companyName,size,reviews,ratings,description} = apps;
 
@@ -72,7 +73,7 @@ const handleSetLoclaStore = () => {
                   </div>
                   
                 </div>
-                <button onClick={() => handleSetLoclaStore()} className=' mt-5 font-semibold text-[1.25rem] bg-[#00D390] rounded-sm text-white py-3.5 px-5'>Install Now ({size} MB)</button>
+                <Link to = {`/installation/${appID}`}><button onClick={() => handleSetLoclaStore()} className=' mt-5 font-semibold text-[1.25rem] bg-[#00D390] rounded-sm text-white py-3.5 px-5'>Install Now ({size} MB)</button></Link>
             </div>
             </div>
 

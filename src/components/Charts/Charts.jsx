@@ -20,7 +20,7 @@ const Charts = ({ ratings }) => {
     <div className="w-full h-90" style={{ width: "100%", height: 400 }}>
 
       <ResponsiveContainer>
-        <BarChart layout="vertical" data={data} >
+        <BarChart layout="vertical" data={data} margin={top-0} >
           <XAxis type="number"/>
           <YAxis
             dataKey="name"
