@@ -7,6 +7,7 @@ import Nabvar from '../components/Nabvar/Nabvar';
 import PageLoading from '../PageLoading/PageLoading';
 
 const Root = () => {
+    
     return (
         <main className='bg-[#F5F5F5]'>
             <Nabvar/>

@@ -10,19 +10,17 @@ a.active {
   text-decoration: none;
 }
 
-/* Gradient bottom border effect using pseudo-element */
 li a.active::after {
   content: "";
   display: block;
-  height: 2px; /* border thickness */
-  width: 70%;  /* underline width */
+  height: 2px; 
+  width: 70%;  
   background: linear-gradient(to right, #632EE3, #9F62F2);
   position: absolute;
   bottom: 10%;
-  left: 50%;          /* start from center */
-  transform: translateX(-50%); /* shift left by 50% of width to center */
+  left: 50%;         
+  transform: translateX(-50%); 
 }
-
 
 
 

@@ -43,9 +43,9 @@ if(isStored) {
 }
    
     return (
-        <section className='max-w-7xl mx-auto py-20'>
-            <div className='flex items-center gap-10 border-b border-gray-300'>
-              <div className='w-105 h-80 bg-white flex content-center'>
+        <section className='max-w-7xl mx-auto py-20 p-3 md:p-0'>
+            <div className='md:flex items-center gap-10 border-b border-gray-300'>
+              <div className='w-40 md:w-105 h-40 md:h-80 bg-white mx-auto'>
                 <img src={image} alt="" className='' />
             </div>
 
@@ -54,32 +54,32 @@ if(isStored) {
               <p className='text-[#627382]'>Developed by : 
                 <span className=' ml-1 font-medium bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>{companyName}</span></p></div>
 
-                <div className='flex gap-10 pt-5'>
+                <div className='flex flex-col md:flex-row gap-1 md:gap-10 pt-5'>
                   <div className='flex-srt min-w-37.5'>
                     <img className='w-9 h-7 ' src={downloadIcon} />
                     <p className='my-2'>Downloads</p>
-                    <h4 className='font-extrabold text-[40px]'>{ formatDownloads(downloads)}</h4>
+                    <h4 className='font-extrabold text-2xl md:text-[40px]'>{ formatDownloads(downloads)}</h4>
                   </div>
 
 
                   <div className=' min-w-37.5'>
                     <img className='w-8 h-7 ' src={ratingIcon} />
                     <p className='my-2'>Average Ratings</p>
-                    <h4 className='font-extrabold text-[40px]'>{ ratingAvg}</h4>
+                    <h4 className='font-extrabold text-2xl md:text-[40px]'>{ ratingAvg}</h4>
                   </div>
 
 
                   <div className=' min-w-37.5'>
                     <img className='w-8 h-7' src={reviewIcon} />
                     <p className='my-2'>Total Reviews</p>
-                    <h4 className='font-extrabold text-[40px]'>{ formatDownloads(reviews)}</h4>
+                    <h4 className='font-extrabold text-2xl md:text-[40px]'>{ formatDownloads(reviews)}</h4>
                   </div>
                   
                 </div>
                 
                 <button
   onClick={handleSetLoclaStore} disabled={isInstalled}
-  className={`mt-5 font-semibold text-[1.25rem] rounded-sm py-3.5 px-5 text-white ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#00D390]'}`}
+  className={`w-full  mt-5 font-semibold text-[1.25rem] rounded-sm py-3.5 px-5 text-white ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#00D390]'}`}
 >
   {isInstalled ? 'Installed' : `Install Now (${size} MB)`}
 </button>

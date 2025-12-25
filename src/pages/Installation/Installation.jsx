@@ -45,7 +45,7 @@ const sortedApps = [...installedApps].sort((a, b) => {
 
 
     return (
-        <section className='py-20 max-w-7xl mx-auto'>
+        <section className='py-5 md:py-20 max-w-7xl mx-auto'>
              <div className='text-center '>
                 <h1 className='text-3xl md:text-5xl font-bold text-[#001931] mb-4'>Your Installed Apps</h1>
                 <p className='text-[#627382] leading-8'>Explore All Trending Apps on the Market developed by us</p>
