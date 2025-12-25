@@ -16,7 +16,7 @@ const Nabvar = () => {
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
         <li><NavLink to={'/'}>Home</NavLink></li>
         <li><NavLink to={'/apps'}>Apps</NavLink></li>
-        <li><NavLink to={'/installation'}>Installation</NavLink></li>
+        <li><NavLink to={'installation/:id'}>Installation</NavLink></li>
       </ul>
     </div>
     <NavLink to={'/'} className="font-bold mr-1 bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src={navLogo} className='w-10 h-10 inline-block' alt="home-logo" />HERO.IO</NavLink>
@@ -25,7 +25,7 @@ const Nabvar = () => {
     <ul className="menu menu-horizontal px-1">
       <li><NavLink to={'/'}>Home</NavLink></li>
         <li><NavLink to={'/apps'}>Apps</NavLink></li>
-        <li><NavLink to={'/installation'}>Installation</NavLink></li>
+        <li><NavLink to={'installation/:id'}>Installation</NavLink></li>
     </ul>
   </div>
   <div className="navbar-end">

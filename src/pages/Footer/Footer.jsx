@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="bg-black p-20">
         
        <img className="w-10 h-10 mx-auto mb-5" src={logoImg} alt="logo" />
-        <div className="max-w-7xl mx-auto flex justify-between gap-10">
+        <div className="max-w-7xl mx-auto md:flex justify-between gap-10">
              <div>
             <h2 className="text-2xl text-gray-200 mb-5">Contact</h2>
             <ul>

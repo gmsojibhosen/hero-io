@@ -47,6 +47,10 @@ export const router = createBrowserRouter([
                 Component: Installation,
             },
            
+            {
+                path:'appFound',
+                Component:AppsFound
+            }
            
         ] 
     },

@@ -13,10 +13,18 @@ const getLocalStored = () => {
         localStorage.setItem('apps',JSON.stringify(apps))
         return true
     }
-    return false
-
-        
-    
+    return false 
 };
 
-export {getLocalStored, addToLoclaStorage}
+const removeFromLoclaStore = (id) => {
+  const apps = getLocalStored();
+
+  if (!apps.includes(id)) {
+ return false;
+  }
+
+  const remaining = apps.filter(appId => appId !== id);
+  localStorage.setItem('apps', JSON.stringify(remaining));
+  return true;
+};
+export {getLocalStored, addToLoclaStorage, removeFromLoclaStore}

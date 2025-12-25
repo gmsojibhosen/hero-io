@@ -30,11 +30,11 @@ const AppDetails = () => {
 const handleSetLoclaStore = () => {
  const isStored = addToLoclaStorage(appID)
   
- if(isStored) {
+if(isStored) {
   setIsInstalled(true);
   toast.success(`${title} installed successfully!`);
+}
 
- }
 
  else {
 
@@ -76,14 +76,14 @@ const handleSetLoclaStore = () => {
                   </div>
                   
                 </div>
-                <Link to ={`/installation/${appId}`}>
+                
                 <button
   onClick={handleSetLoclaStore} disabled={isInstalled}
   className={`mt-5 font-semibold text-[1.25rem] rounded-sm py-3.5 px-5 text-white ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#00D390]'}`}
 >
   {isInstalled ? 'Installed' : `Install Now (${size} MB)`}
 </button>
-</Link>
+          
                 
             </div>
             </div>
